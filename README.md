@@ -2,7 +2,7 @@
 <section>
     <!--<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>-->
     
-    <link type="text/css" rel="stylesheet" href="https://7pub.github.io/_site//style/caliweb/framework/css/arf.css" />
+    <link type="text/css" rel="stylesheet" href="//./_site//style/caliweb/framework/css/arf.css" />
     
     <script src="//./_site/json/caliweb/framework/arf.json" type="text/javascript"></script>
     
