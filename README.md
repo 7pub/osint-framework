@@ -11,7 +11,7 @@
     
     <div id="body">
         <div id="header">
-        <script src="https://7pub.github.io/cdn-gw/scripts/osint/arf.js" type="text/javascript"></script>
+        <script src="https://7pub.github.io/cdn-gw/js/osint/arf.js" type="text/javascript"></script>
         </div>
     </div>
     
